@@ -18,3 +18,12 @@ expertMode = true
 [postMerge]
 path = "scripts/post-merge.sh"
 timeoutMs = 20000
+
+[userenv]
+
+[userenv.shared]
+LAVALINK_HOST = "us-r5.visihost.in"
+LAVALINK_PORT = "3065"
+LAVALINK_SECURE = "False"
+LAVALINK_IDENTIFIER = "Main"
+BOT_OWNER_IDS = "1375323786877997146"
